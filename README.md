@@ -12,6 +12,11 @@ The repository contains the following files:
 <li>search_WoS (252).bib</li>
 </ul>
 
+<b>Dataset</b>
+<ul>
+<li>dataset.ods</li>
+</ul>
+
 <b>File resulting from the selection and classification process, containing 642 unique references</b>
 
 <ul>
